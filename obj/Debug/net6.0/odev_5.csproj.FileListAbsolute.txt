@@ -1,0 +1,15 @@
+C:\Users\mc_li\Music\odev_5\bin\Debug\net6.0\odev_5.exe
+C:\Users\mc_li\Music\odev_5\bin\Debug\net6.0\odev_5.deps.json
+C:\Users\mc_li\Music\odev_5\bin\Debug\net6.0\odev_5.runtimeconfig.json
+C:\Users\mc_li\Music\odev_5\bin\Debug\net6.0\odev_5.dll
+C:\Users\mc_li\Music\odev_5\bin\Debug\net6.0\odev_5.pdb
+C:\Users\mc_li\Music\odev_5\obj\Debug\net6.0\odev_5.csproj.AssemblyReference.cache
+C:\Users\mc_li\Music\odev_5\obj\Debug\net6.0\odev_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc_li\Music\odev_5\obj\Debug\net6.0\odev_5.AssemblyInfoInputs.cache
+C:\Users\mc_li\Music\odev_5\obj\Debug\net6.0\odev_5.AssemblyInfo.cs
+C:\Users\mc_li\Music\odev_5\obj\Debug\net6.0\odev_5.csproj.CoreCompileInputs.cache
+C:\Users\mc_li\Music\odev_5\obj\Debug\net6.0\odev_5.dll
+C:\Users\mc_li\Music\odev_5\obj\Debug\net6.0\refint\odev_5.dll
+C:\Users\mc_li\Music\odev_5\obj\Debug\net6.0\odev_5.pdb
+C:\Users\mc_li\Music\odev_5\obj\Debug\net6.0\odev_5.genruntimeconfig.cache
+C:\Users\mc_li\Music\odev_5\obj\Debug\net6.0\ref\odev_5.dll
